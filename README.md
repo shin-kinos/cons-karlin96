@@ -32,7 +32,7 @@ Then the object file is generated in `./target/release` directory.
 ## Scoring method 
 
 ### Conservation score 
-The conservation score is calculated based on SP measure as follows: 
+The conservation score is calculated based on SP measure as follows [1]: 
 
 <img width="1440" alt="cons-karlin96_equation01" src="https://user-images.githubusercontent.com/83740080/140666320-7d079490-5ad3-4d20-af18-3de74bb3b1dd.png"> 
 
